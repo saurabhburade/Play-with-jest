@@ -1,0 +1,14 @@
+{
+  "name": "play-with-jest",
+  "version": "1.0.0",
+  "description": "``This Readme is forked from https://github.com/sapegin/jest-cheat-sheet``",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "Saurabh Burade",
+  "license": "CC0 1.0 Universal",
+  "devDependencies": {
+    "jest": "^27.4.5"
+  }
+}
